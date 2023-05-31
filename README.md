@@ -1,4 +1,4 @@
-# SAHAS-Project
+# Capstone Project
 
 This is the Programming and Data Structures (PDS) Laboratory Project done by members:
 - Aditya Dhananjay Singh
