@@ -7,7 +7,7 @@ This is the Programming and Data Structures (PDS) Laboratory Project done by mem
 - Kumar Snehal
 - Soham Chakraborty
 
-The project is a code written in C language which contains an arcade consisting of three games- 2048, Air Hockey and Snake. It uses graphics.h libraries to print visuals in a graphics window. All coding was done in Devcpp IDE and code editor and the compiler used was TDM Gcc. A resources zip folder is also included which contains images used in the program. All the images are made by the team members themselves.
+The project is a code written in C++ language which contains an arcade consisting of three games- 2048, Air Hockey and Snake. It uses graphics.h libraries to print visuals in a graphics window. All coding was done in Devcpp IDE and code editor and the compiler used was TDM Gcc. A resources zip folder is also included which contains images used in the program. All the images are made by the team members themselves.
 
 # The concepts used in the program are:
 # 2048:
