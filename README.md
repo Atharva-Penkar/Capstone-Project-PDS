@@ -10,19 +10,19 @@ This is the Programming and Data Structures (PDS) Laboratory Project done by mem
 The project is a code written in C++ language which contains an arcade consisting of three games- 2048, Air Hockey and Snake. It uses **graphics.h** library to print visuals in a graphics window. All coding was done in Devcpp IDE and code editor and the compiler used was TDM-GCC 4.9.2 32-bit Release. A resources zip folder is also included which contains images used in the program. All the images are made by the team members themselves.
 
 # The concepts used in the program are:
-# 2048:
+## 2048:
 - Array Rotation
 - Addition of similar elements only
 - Winning and losing conditions
 - Reset and exit to main menu functionality
 
-# Air Hockey:
+## Air Hockey:
 - Collision of bodies
 - Counting of score when player scores goal
 - Counting of time
 - Resume, reset, settings and exit to main menu functionality
 
-# Snake Game
+## Snake Game
 - Movement of snake
 - Checking collision of snake with boundary
 - Counting and increasing length of snake when it eats food
